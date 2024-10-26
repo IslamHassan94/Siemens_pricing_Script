@@ -1,0 +1,15 @@
+Logging:
+  LOGGING_DIR: "../Logs/"
+Input_Sheets:
+  input_folder: '../../Input_Sheets/'
+  input_file_name: 'Test.xlsx'
+
+actions: # Choose: true / false / both
+  handle_all_customers: "false"
+
+TGL_Business_Unit_Desc: "DI FA"
+CM_Customer_Name: "Egyptian Propylene &"
+Part_Number: "6ES7798-0GA05-0XA0"
+output: "../../Output/"
+
+
